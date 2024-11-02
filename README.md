@@ -25,12 +25,19 @@
 
 ## <H3> Projects: </H3>
 <div style="display: incline_block"><br/>
-<details>
-  <summary>projects in C</summary>
-    <ul>
-      <li><a href="https://github.com/Marlon-Mena/Fight-game">Game in C</a></li>
-    </ul>
-</details>
+  <details>
+    <summary>My project important</summary>
+      <ul>
+        <li><a href="https://github.com/Marlon-Mena/Project-Store">Crud in php</a></li>
+      </ul>
+  </details>
+    <br>
+  <details>
+    <summary>My project of gameng</summary>
+      <ul>
+        <li><a href="https://github.com/Marlon-Mena/Fight-game">Game in C</a></li>
+      </ul>
+  </details>
 </div>
 
 ##
