@@ -28,7 +28,7 @@
   <details>
     <summary>My project important</summary>
       <ul>
-        <li><a href="https://github.com/Marlon-Mena/Project-Store">Crud in php</a></li>
+        <li><a href="https://github.com//Marlon-Mena/Project-php-store">Crud in php</a></li>
       </ul>
   </details>
     <br>
