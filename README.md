@@ -1,9 +1,8 @@
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=42&duration=2000&lines=Hello!+👋😃;+my+name+is+Marlon!;" /> <br>and I do computer science🖳 and this is my github with all my personal and study/work projects.
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
-<a href="https://www.hackerrank.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=HackerRank&message=%20&color=green" target="_blank"></a> 
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://marlon.mena.monteiro@gmail.com>)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/marlon-mena)
+<a href="https://www.hackerrank.com/profile/marlon_mena_mon1" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=HackerRank&message=%20&color=green" target="_blank"></a> 
 
 ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlon-Mena&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-Mena&layout=compact&theme=tokyonight)
@@ -26,16 +25,25 @@
 ## <H3> Projects: </H3>
 <div style="display: incline_block"><br/>
   <details>
-    <summary>My project important</summary>
+    <summary>MY RELEVANT PROJECTS</summary>
       <ul>
-        <li><a href="https://github.com//Marlon-Mena/Project-php-store">Crud in php</a></li>
+        <li><a href="https://github.com//Marlon-Mena/Project-php-store">CRUD IN PHP</a></li>
+        <li><a href="https://github.com/Marlon-Mena/projeto-Django">API IN JDANGO</a></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
       </ul>
   </details>
     <br>
   <details>
-    <summary>My project of gameng</summary>
+    <summary>MY PROJECTS ABAUT GAMES</summary>
       <ul>
-        <li><a href="https://github.com/Marlon-Mena/Fight-game">Game in C</a></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
       </ul>
   </details>
 </div>
